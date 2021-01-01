@@ -1,1 +1,1 @@
-# My-Token
+# MyToken
